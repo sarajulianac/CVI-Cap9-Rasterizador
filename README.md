@@ -45,8 +45,3 @@ Requiere [openFrameworks](https://openframeworks.cc/download/) (probado en 0.12.
 > que el área con signo y el conteo de píxeles son correctos en todo momento). Mover
 > los vértices en pasos cortos evita el efecto.
 
-## Contexto
-
-Trabajo para la materia Computación Visual Interactiva, Universidad de los Andes.
-Acompaña una presentación (teoría + matemática + código) sobre el Capítulo 9 del
-libro de texto del curso.
